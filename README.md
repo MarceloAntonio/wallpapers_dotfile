@@ -1,338 +1,188 @@
 # Wallpapers
+
+50 wallpapers, nomeados como `categoria-descricao.ext`.
+
 <details>
-  <summary><b>Landscapes</b></summary>
+<summary><b>🏞️ Paisagens (14)</b></summary>
 
-### Wallpaper 3
-![Wallpaper 3](wallpaper_3.png)
+### landscape-black-sand-beach
+![landscape-black-sand-beach.png](landscape-black-sand-beach.png)
 
----
+### landscape-cherry-blossom-branch
+![landscape-cherry-blossom-branch.png](landscape-cherry-blossom-branch.png)
 
-### Wallpaper 5
-![Wallpaper 5](wallpaper_5.png)
+### landscape-dark-forest-road
+![landscape-dark-forest-road.png](landscape-dark-forest-road.png)
 
----
+### landscape-dusk-sky
+![landscape-dusk-sky.png](landscape-dusk-sky.png)
 
-### Wallpaper 7
-![Wallpaper 7](wallpaper_7.png)
+### landscape-foggy-lake-house
+![landscape-foggy-lake-house.png](landscape-foggy-lake-house.png)
 
----
+### landscape-foggy-mountains
+![landscape-foggy-mountains.png](landscape-foggy-mountains.png)
 
-### Wallpaper 8
-![Wallpaper 8](wallpaper_8.png)
+### landscape-foggy-pine-forest
+![landscape-foggy-pine-forest.png](landscape-foggy-pine-forest.png)
 
----
+### landscape-foggy-ski-lift
+![landscape-foggy-ski-lift.png](landscape-foggy-ski-lift.png)
 
-### Wallpaper 9
-![Wallpaper 9](wallpaper_9.png)
+### landscape-misty-green-forest
+![landscape-misty-green-forest.png](landscape-misty-green-forest.png)
 
----
-### Wallpaper 16
-![Wallpaper 16](wallpaper_16.png)
+### landscape-mountain-river
+![landscape-mountain-river.png](landscape-mountain-river.png)
 
----
+### landscape-pink-cherry-tree
+![landscape-pink-cherry-tree.png](landscape-pink-cherry-tree.png)
 
-### Wallpaper 19
-![Wallpaper 19](wallpaper_19.png)
+### landscape-rainy-field
+![landscape-rainy-field.png](landscape-rainy-field.png)
 
----
+### landscape-stormy-coast
+![landscape-stormy-coast.png](landscape-stormy-coast.png)
 
-### Wallpaper 22
-![Wallpaper 22](wallpaper_22.png)
-
----
-### Wallpaper 30
-![Wallpaper 30](wallpaper_30.png)
-
----
-### Wallpaper 32
-![Wallpaper 32](wallpaper_32.png)
-
----
-
-### Wallpaper 33
-![Wallpaper 33](wallpaper_33.png)
-
----
-
-### Wallpaper 34
-![Wallpaper 34](wallpaper_34.png)
-
----
-
-### Wallpaper 36
-![Wallpaper 36](wallpaper_36.png)
-
----
-
-### Wallpaper 37
-![Wallpaper 37](wallpaper_37.png)
-
----
-
-### Wallpaper 38
-![Wallpaper 38](wallpaper_38.png)
-
----
-
-### Wallpaper 39
-![Wallpaper 39](wallpaper_39.png)
-
----
-
-### Wallpaper 40
-![Wallpaper 40](wallpaper_40.png)
-
-
-
+### landscape-teal-forest-road
+![landscape-teal-forest-road.png](landscape-teal-forest-road.png)
 
 </details>
 
----
-
 <details>
-  <summary><b>OS</b></summary>
-  
-### Wallpaper 6
-![Wallpaper 6](wallpaper_6.png)
+<summary><b>🪐 Espaço (1)</b></summary>
 
----
-
-### Wallpaper 15
-![Wallpaper 15](wallpaper_15.png)
-
----
-
-### Wallpaper 17
-![Wallpaper 17](wallpaper_17.png)
-
----
-### Wallpaper 19
-![Wallpaper 19](wallpaper_19.png)
-
----
-
-### Wallpaper 28
-![Wallpaper 28](wallpaper_28.png)
-
----
-
-### Wallpaper 29
-![Wallpaper 29](wallpaper_29.png)
-
----
-### Wallpaper 44
-![Wallpaper 44](wallpaper_44.png)
-
+### space-jupiter
+![space-jupiter.png](space-jupiter.png)
 
 </details>
 
-
-
-
-
----
 <details>
-  <summary><b>Vocaloid</b></summary>
+<summary><b>💻 Sistemas Operacionais (7)</b></summary>
 
-  ### Wallpaper 1
-![Wallpaper 1](wallpaper_1.png)
+### os-openbsd-puffy
+![os-openbsd-puffy.png](os-openbsd-puffy.png)
 
----
-  
-### Wallpaper 10
-![Wallpaper 10](wallpaper_10.png)
+### os-terminal-anime
+![os-terminal-anime.png](os-terminal-anime.png)
 
----
-### Wallpaper 21
-![Wallpaper 21](wallpaper_21.png)
+### os-windows-7-arch-linux
+![os-windows-7-arch-linux.jpg](os-windows-7-arch-linux.jpg)
 
----
-### Wallpaper 23
-![Wallpaper 23](wallpaper_23.png)
+### os-windows-7-minimal
+![os-windows-7-minimal.png](os-windows-7-minimal.png)
 
----
+### os-windows-7
+![os-windows-7.png](os-windows-7.png)
 
-### Wallpaper 24
-![Wallpaper 24](wallpaper_24.png)
+### os-windows-vista
+![os-windows-vista.png](os-windows-vista.png)
 
----
-
-### Wallpaper 26
-![Wallpaper 26](wallpaper_26.png)
-
----
-### Wallpaper 31
-![Wallpaper 31](wallpaper_31.png)
-
----
-### Wallpaper 41
-![Wallpaper 41](wallpaper_41.png)
-
----
+### os-windows-xp-bliss
+![os-windows-xp-bliss.png](os-windows-xp-bliss.png)
 
 </details>
 
-
-
----
-
-
-
 <details>
-  <summary><b>Anime</b></summary>
+<summary><b>🎤 Vocaloid (6)</b></summary>
 
-### Wallpaper 2
-![Wallpaper 2](wallpaper_2.png)
+### vocaloid-kasane-teto
+![vocaloid-kasane-teto.png](vocaloid-kasane-teto.png)
 
----
+### vocaloid-miku-blue-lights
+![vocaloid-miku-blue-lights.png](vocaloid-miku-blue-lights.png)
 
+### vocaloid-miku-cyber
+![vocaloid-miku-cyber.png](vocaloid-miku-cyber.png)
 
-### Wallpaper 4
-![Wallpaper 4](wallpaper_4.png)
+### vocaloid-miku-hands
+![vocaloid-miku-hands.png](vocaloid-miku-hands.png)
 
----
+### vocaloid-miku-minecraft-sunset
+![vocaloid-miku-minecraft-sunset.jpg](vocaloid-miku-minecraft-sunset.jpg)
 
-### Wallpaper 6
-![Wallpaper 6](wallpaper_6.png)
-
----
-### Wallpaper 12
-![Wallpaper 12](wallpaper_12.png)
-
----
-
-### Wallpaper 13
-![Wallpaper 13](wallpaper_13.png)
-
----
-### Wallpaper 27
-![Wallpaper 27](wallpaper_27.png)
-
----
-### Wallpaper 35
-![Wallpaper 35](wallpaper_35.png)
-
----
-### Wallpaper 43
-![Wallpaper 43](wallpaper_43.png)
-
----
-### Wallpaper 44
-![Wallpaper 44](wallpaper_44.png)
-
----
-### Wallpaper 45
-![Wallpaper 45](wallpaper_45.png)
-
----
-  
-</details>
-
----
-
-<details>
-  <summary><b>Randoms</b></summary>
-
-### Wallpaper 11
-![Wallpaper 11](wallpaper_11.png)
-
----
-
-### Wallpaper 14
-![Wallpaper 14](wallpaper_14.png)
-
----
-
-### Wallpaper 18
-![Wallpaper 18](wallpaper_18.png)
-
----
-### Wallpaper 20
-![Wallpaper 20](wallpaper_20.png)
-
----
-### Wallpaper 25
-![Wallpaper 25](wallpaper_25.png)
-
----
-### Wallpaper 42
-![Wallpaper 42](wallpaper_42.png)
-
-
+### vocaloid-miku-windows-7
+![vocaloid-miku-windows-7.jpg](vocaloid-miku-windows-7.jpg)
 
 </details>
 
+<details>
+<summary><b>🌸 Anime (4)</b></summary>
 
+### anime-evangelion-seele
+![anime-evangelion-seele.png](anime-evangelion-seele.png)
 
----
+### anime-evangelion-symbol
+![anime-evangelion-symbol.png](anime-evangelion-symbol.png)
 
+### anime-monochrome-room
+![anime-monochrome-room.png](anime-monochrome-room.png)
 
+### anime-scythe-red-moon
+![anime-scythe-red-moon.png](anime-scythe-red-moon.png)
 
+</details>
 
+<details>
+<summary><b>🐱 Memes (14)</b></summary>
 
+### meme-beach-blob
+![meme-beach-blob.jpg](meme-beach-blob.jpg)
 
+### meme-cat-dark-room
+![meme-cat-dark-room.jpg](meme-cat-dark-room.jpg)
 
+### meme-cat-fnaf
+![meme-cat-fnaf.jpg](meme-cat-fnaf.jpg)
 
+### meme-cat-minecraft-sunset
+![meme-cat-minecraft-sunset.jpg](meme-cat-minecraft-sunset.jpg)
 
+### meme-cat-minecraft
+![meme-cat-minecraft.png](meme-cat-minecraft.png)
 
+### meme-cat-night-vision
+![meme-cat-night-vision.png](meme-cat-night-vision.png)
 
+### meme-cat-rocket-space
+![meme-cat-rocket-space.png](meme-cat-rocket-space.png)
 
+### meme-cat-stormy-sea
+![meme-cat-stormy-sea.jpg](meme-cat-stormy-sea.jpg)
 
+### meme-cat-to-bread
+![meme-cat-to-bread.jpg](meme-cat-to-bread.jpg)
 
+### meme-cat-windows-aero
+![meme-cat-windows-aero.jpg](meme-cat-windows-aero.jpg)
 
+### meme-cat-windows-pink
+![meme-cat-windows-pink.jpg](meme-cat-windows-pink.jpg)
 
+### meme-cat-windows-xp
+![meme-cat-windows-xp.jpg](meme-cat-windows-xp.jpg)
 
+### meme-dolphin-cow
+![meme-dolphin-cow.jpg](meme-dolphin-cow.jpg)
 
+### meme-evangelion-xp-bliss
+![meme-evangelion-xp-bliss.jpg](meme-evangelion-xp-bliss.jpg)
 
+</details>
 
+<details>
+<summary><b>🎲 Diversos (4)</b></summary>
 
+### misc-cinnamoroll
+![misc-cinnamoroll.png](misc-cinnamoroll.png)
 
+### misc-minecraft-landscape
+![misc-minecraft-landscape.png](misc-minecraft-landscape.png)
 
+### misc-red-circuit
+![misc-red-circuit.png](misc-red-circuit.png)
 
+### misc-vintage-engraving
+![misc-vintage-engraving.png](misc-vintage-engraving.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</details>
