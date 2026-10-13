@@ -1,51 +1,98 @@
 # Wallpapers
 
-50 wallpapers, nomeados como `categoria-descricao.ext`.
+64 wallpapers, nomeados como `categoria-descricao.ext`.
 
 <details>
 <summary><b>🏞️ Paisagens (14)</b></summary>
 
 ### landscape-black-sand-beach
-![landscape-black-sand-beach.png](landscape-black-sand-beach.png)
+![landscape-black-sand-beach.jpg](landscape-black-sand-beach.jpg)
 
 ### landscape-cherry-blossom-branch
-![landscape-cherry-blossom-branch.png](landscape-cherry-blossom-branch.png)
+![landscape-cherry-blossom-branch.jpg](landscape-cherry-blossom-branch.jpg)
 
 ### landscape-dark-forest-road
-![landscape-dark-forest-road.png](landscape-dark-forest-road.png)
+![landscape-dark-forest-road.jpg](landscape-dark-forest-road.jpg)
 
 ### landscape-dusk-sky
-![landscape-dusk-sky.png](landscape-dusk-sky.png)
+![landscape-dusk-sky.jpg](landscape-dusk-sky.jpg)
 
 ### landscape-foggy-lake-house
-![landscape-foggy-lake-house.png](landscape-foggy-lake-house.png)
+![landscape-foggy-lake-house.jpg](landscape-foggy-lake-house.jpg)
 
 ### landscape-foggy-mountains
-![landscape-foggy-mountains.png](landscape-foggy-mountains.png)
+![landscape-foggy-mountains.jpg](landscape-foggy-mountains.jpg)
 
 ### landscape-foggy-pine-forest
-![landscape-foggy-pine-forest.png](landscape-foggy-pine-forest.png)
+![landscape-foggy-pine-forest.jpg](landscape-foggy-pine-forest.jpg)
 
 ### landscape-foggy-ski-lift
-![landscape-foggy-ski-lift.png](landscape-foggy-ski-lift.png)
+![landscape-foggy-ski-lift.jpg](landscape-foggy-ski-lift.jpg)
 
 ### landscape-misty-green-forest
-![landscape-misty-green-forest.png](landscape-misty-green-forest.png)
+![landscape-misty-green-forest.jpg](landscape-misty-green-forest.jpg)
 
 ### landscape-mountain-river
-![landscape-mountain-river.png](landscape-mountain-river.png)
+![landscape-mountain-river.jpg](landscape-mountain-river.jpg)
 
 ### landscape-pink-cherry-tree
-![landscape-pink-cherry-tree.png](landscape-pink-cherry-tree.png)
+![landscape-pink-cherry-tree.jpg](landscape-pink-cherry-tree.jpg)
 
 ### landscape-rainy-field
-![landscape-rainy-field.png](landscape-rainy-field.png)
+![landscape-rainy-field.jpg](landscape-rainy-field.jpg)
 
 ### landscape-stormy-coast
-![landscape-stormy-coast.png](landscape-stormy-coast.png)
+![landscape-stormy-coast.jpg](landscape-stormy-coast.jpg)
 
 ### landscape-teal-forest-road
-![landscape-teal-forest-road.png](landscape-teal-forest-road.png)
+![landscape-teal-forest-road.jpg](landscape-teal-forest-road.jpg)
+
+</details>
+
+<details>
+<summary><b>⚫ Monocromáticos (14)</b></summary>
+
+### mono-anime-girl-choker
+![mono-anime-girl-choker.png](mono-anime-girl-choker.png)
+
+### mono-anime-girl-hair
+![mono-anime-girl-hair.jpg](mono-anime-girl-hair.jpg)
+
+### mono-anime-girl-sketch
+![mono-anime-girl-sketch.png](mono-anime-girl-sketch.png)
+
+### mono-black-beach
+![mono-black-beach.jpg](mono-black-beach.jpg)
+
+### mono-clouds
+![mono-clouds.jpg](mono-clouds.jpg)
+
+### mono-dunes
+![mono-dunes.jpg](mono-dunes.jpg)
+
+### mono-eclipse-ring
+![mono-eclipse-ring.jpg](mono-eclipse-ring.jpg)
+
+### mono-foggy-forest
+![mono-foggy-forest.jpg](mono-foggy-forest.jpg)
+
+### mono-mount-fuji
+![mono-mount-fuji.jpg](mono-mount-fuji.jpg)
+
+### mono-mountain-silhouette
+![mono-mountain-silhouette.jpg](mono-mountain-silhouette.jpg)
+
+### mono-snow-mountain-hiker
+![mono-snow-mountain-hiker.jpg](mono-snow-mountain-hiker.jpg)
+
+### mono-starry-night
+![mono-starry-night.jpg](mono-starry-night.jpg)
+
+### mono-terminal-girl
+![mono-terminal-girl.png](mono-terminal-girl.png)
+
+### mono-vagabond-samurai
+![mono-vagabond-samurai.png](mono-vagabond-samurai.png)
 
 </details>
 
@@ -53,7 +100,7 @@
 <summary><b>🪐 Espaço (1)</b></summary>
 
 ### space-jupiter
-![space-jupiter.png](space-jupiter.png)
+![space-jupiter.jpg](space-jupiter.jpg)
 
 </details>
 
