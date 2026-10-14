@@ -1,6 +1,6 @@
 # Wallpapers
 
-64 wallpapers, nomeados como `categoria-descricao.ext`.
+55 wallpapers, nomeados como `categoria-descricao.ext`.
 
 <details>
 <summary><b>🏞️ Paisagens (14)</b></summary>
@@ -50,16 +50,7 @@
 </details>
 
 <details>
-<summary><b>⚫ Monocromáticos (14)</b></summary>
-
-### mono-anime-girl-choker
-![mono-anime-girl-choker.png](mono-anime-girl-choker.png)
-
-### mono-anime-girl-hair
-![mono-anime-girl-hair.jpg](mono-anime-girl-hair.jpg)
-
-### mono-anime-girl-sketch
-![mono-anime-girl-sketch.png](mono-anime-girl-sketch.png)
+<summary><b>⚫ Monocromáticos (7)</b></summary>
 
 ### mono-black-beach
 ![mono-black-beach.jpg](mono-black-beach.jpg)
@@ -70,9 +61,6 @@
 ### mono-dunes
 ![mono-dunes.jpg](mono-dunes.jpg)
 
-### mono-eclipse-ring
-![mono-eclipse-ring.jpg](mono-eclipse-ring.jpg)
-
 ### mono-foggy-forest
 ![mono-foggy-forest.jpg](mono-foggy-forest.jpg)
 
@@ -82,17 +70,8 @@
 ### mono-mountain-silhouette
 ![mono-mountain-silhouette.jpg](mono-mountain-silhouette.jpg)
 
-### mono-snow-mountain-hiker
-![mono-snow-mountain-hiker.jpg](mono-snow-mountain-hiker.jpg)
-
 ### mono-starry-night
 ![mono-starry-night.jpg](mono-starry-night.jpg)
-
-### mono-terminal-girl
-![mono-terminal-girl.png](mono-terminal-girl.png)
-
-### mono-vagabond-samurai
-![mono-vagabond-samurai.png](mono-vagabond-samurai.png)
 
 </details>
 
@@ -171,16 +150,13 @@
 </details>
 
 <details>
-<summary><b>🐱 Memes (14)</b></summary>
+<summary><b>🐱 Memes (13)</b></summary>
 
 ### meme-beach-blob
 ![meme-beach-blob.jpg](meme-beach-blob.jpg)
 
 ### meme-cat-dark-room
 ![meme-cat-dark-room.jpg](meme-cat-dark-room.jpg)
-
-### meme-cat-fnaf
-![meme-cat-fnaf.jpg](meme-cat-fnaf.jpg)
 
 ### meme-cat-minecraft-sunset
 ![meme-cat-minecraft-sunset.jpg](meme-cat-minecraft-sunset.jpg)
@@ -218,7 +194,7 @@
 </details>
 
 <details>
-<summary><b>🎲 Diversos (4)</b></summary>
+<summary><b>🎲 Diversos (3)</b></summary>
 
 ### misc-cinnamoroll
 ![misc-cinnamoroll.png](misc-cinnamoroll.png)
@@ -228,8 +204,5 @@
 
 ### misc-red-circuit
 ![misc-red-circuit.png](misc-red-circuit.png)
-
-### misc-vintage-engraving
-![misc-vintage-engraving.png](misc-vintage-engraving.png)
 
 </details>
